@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 I am Janvi Bhatt. A 21 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology.
 
-https://github-readme-stats.vercel.app/api?username=bhatt-jn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src = "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+

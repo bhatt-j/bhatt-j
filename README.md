@@ -1,4 +1,4 @@
-### Hola 😄👋 <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
+### Hola 😄👋 
 
 <!--
 **bhatt-j/bhatt-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Janvi Bhatt. A 21 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology.
 
 - 🌱 I’m currently learning Algorithms, Data Structure, compitetive Programming
-- 👯 I’m looking to collaborate on Java, Python, Data Science/Data Analysis and Machine Learning Projects
+- 👯 I’m looking to collaborate on Java, Python, Data Science/Data Analysis and Machine Learning Projects <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="42" width="42">
 - 🤔 I’m looking for help with Cp, Machine Learning and AI
 
 <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

@@ -1,4 +1,5 @@
-##### Hola 😄👋  <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="120" width="150" border-radius = "20">
+<bold><p align="center" font="40"> Hola 😄👋  </p></bold>
+<hr>
 
 <!--
 **bhatt-j/bhatt-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +22,7 @@ I am Janvi Bhatt. A 21 year old studying at Dhirubhai Ambani Institute of Inform
 - 👯 I’m looking to collaborate on Java, Python, Data Science/Data Analysis and Machine Learning Projects 
 - 🤔 I’m looking for help with Cp, Machine Learning and AI
 
-<img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="195" width="200" border-radius = "20" > <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ### Languages and tools
 

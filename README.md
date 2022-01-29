@@ -1,5 +1,4 @@
-<centre>   <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="142" width="142" border-radius = "20"> </centre>
-### Hola 😄👋  </centre>
+##### Hola 😄👋  <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="120" width="150" border-radius = "20">
 
 <!--
 **bhatt-j/bhatt-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

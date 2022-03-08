@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am Janvi Bhatt. A 21 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology.
 
-- 🌱 I’m currently learning Algorithms, Data Structure, compitetive Programming   
+- 🌱 I’m currently learning Algorithms, Data Structure, competitive Programming   
 - 👯 I’m looking to collaborate on Java, Python, Data Analytics and Machine Learning Projects 
 - 🤔 I’m looking for help with Data Science, Machine Learning and AI
 

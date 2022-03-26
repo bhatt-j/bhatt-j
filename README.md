@@ -1,4 +1,4 @@
-<bold><p align="center" font="40"> Hola 😄👋  </p></bold>
+### <b><p align="center" font="40">Hola 😄👋  </p></b>
 <hr>
 
 <!--
@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Janvi Bhatt. A 21 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology.
+I am Janvi Bhatt. A 21 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology. Interested in OPEN SOURCE PROJECTS.
 
 - 🌱 I’m currently learning Algorithms, Data Structure, competitive Programming   
-- 👯 I’m looking to collaborate on Java, Python, Data Analytics and Machine Learning Projects 
-- 🤔 I’m looking for help with Data Science, Machine Learning and AI
+- 👯 I’m looking to collaborate on #<b>Java, Python, Data Analytics and Machine Learning Projects </b>
+- 🤔 I’m looking for help with Data Science, Machine Learning
+- 😄 I like to work on <b>open source projects.</b>
 
 <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="195" width="200" border-radius = "20" > <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 

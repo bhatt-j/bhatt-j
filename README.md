@@ -1,5 +1,7 @@
-### <b><p align="center" font="40">Hola 😄👋  </p></b>
+### <b><p align="center" font="40">Hola 😄👋</p></b>
 <hr>
+
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="wave" height="30" width="45"  /> -->
 
 <!--
 **bhatt-j/bhatt-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

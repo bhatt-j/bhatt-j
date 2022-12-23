@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatt-j&label=Profile%20views&color=e70413&style=flat" alt="bhatt-j" /> </p>
-I am Janvi Bhatt. A 21 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology. Mostly relaying towards the development #dev. <br>
+I am Janvi Bhatt. A 22 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology. Mostly relaying towards the development #dev. <br>
 Interested in OPEN SOURCE PROJECTS.<br><br>
 
 <!-- - 🌱 I’m currently learning Algorithms, Data Structure, competitive Programming  --> 

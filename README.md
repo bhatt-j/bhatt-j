@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatt-j&label=Profile%20views&color=e70413&style=flat" alt="bhatt-j" /> </p>
-I am Janvi Bhatt. A 22 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology. Mostly relaying towards the development #dev. <br>
-Interested in OPEN SOURCE PROJECTS.<br><br>
+I am Janvi Bhatt. A 22 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology.<br>
+Interested in Data Science and Machine Learning.<br><br>
 
 <!-- - 🌱 I’m currently learning Algorithms, Data Structure, competitive Programming  --> 
-- 👯 I’m looking to collaborate on #<b>Android, Java, Python</b>
-- 🤔 I’m looking for help with Data Science, Machine Learning
+- 🤔 Seek new concepts in Data Science, Machine Learning
+- 👯 Open to collaborate on <b>Android, Java, Python</b>
 <!-- - 😄 I like to work on <b>open source projects.</b>-->
 
 <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="195" width="200" border-radius = "20" > [![Janvi's github stats](https://github-readme-stats.vercel.app/api?username=bhatt-j)](https://github.com/bhatt-j/github-readme-stats)<!-- <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">--> 

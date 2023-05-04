@@ -24,6 +24,7 @@ Interested in Data Science and Machine Learning.<br><br>
 <!-- - 🌱 I’m currently learning Algorithms, Data Structure, competitive Programming  --> 
 - 🤔 Seek new concepts in Data Science, Machine Learning
 - 👯 Open to collaborate on <b>Android, Java, Python</b>
+- Connect me through <b><a href='https://www.linkedin.com/in/janvi-bhatt/'>LinkedIn</a></b>
 <!-- - 😄 I like to work on <b>open source projects.</b>-->
 
 <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="195" width="200" border-radius = "20" > [![Janvi's github stats](https://github-readme-stats.vercel.app/api?username=bhatt-j)](https://github.com/bhatt-j/github-readme-stats)<!-- <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">--> 

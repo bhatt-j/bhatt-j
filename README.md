@@ -22,20 +22,21 @@ I am Janvi Bhatt. A 22 year old studying at Dhirubhai Ambani Institute of Inform
 Interested in Data Science and Machine Learning.<br><br>
 
 <!-- - 🌱 I’m currently learning Algorithms, Data Structure, competitive Programming  --> 
-- 🤔 Seek new concepts in Data Science, Machine Learning
-- 👯 Open to collaborate on <b>Android, Java, Python</b>
+- 🤔 Seek new concepts in Data Science, Machine Learning, NLP and Computer Vision.
+- 👯 Open to collaborate on projects.
 - Connect me through <b><a href='https://www.linkedin.com/in/janvi-bhatt/'>LinkedIn</a></b>
 <!-- - 😄 I like to work on <b>open source projects.</b>-->
 
 <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="195" width="200" border-radius = "20" > [![Janvi's github stats](https://github-readme-stats.vercel.app/api?username=bhatt-j)](https://github.com/bhatt-j/github-readme-stats)<!-- <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">--> 
 ### Languages and tools
 
-<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-<a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-NumPy-blue"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/-Pandas-lightgrey"></a>
+<a href="#"><img alt="scikit" src="https://img.shields.io/badge/-Scikit%20--%20learn-yellowgreen"></a>
+<a href="#"><img alt="NLP" src="https://img.shields.io/badge/-NLP-blueviolet"></a>
+<a href="#"><img alt="CV" src="https://img.shields.io/badge/-OpenCV-informational"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<img src = "https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image-180x180.png" height="45" width="45">   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatt-j&langs_count=8&layout=compact)](https://github.com/bhatt-j/github-readme-stats)
 

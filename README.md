@@ -27,7 +27,8 @@ Interested in Data Science and Machine Learning.<br><br>
 - Connect me through <b><a href='https://www.linkedin.com/in/janvi-bhatt/'>LinkedIn</a></b>
 <!-- - 😄 I like to work on <b>open source projects.</b>-->
 
-<img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="195" width="200" border-radius = "20" > [![Janvi's github stats](https://github-readme-stats.vercel.app/api?username=bhatt-j)](https://github.com/bhatt-j/github-readme-stats)<!-- <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">--> 
+<img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="195" width="200" border-radius = "20"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatt-j&langs_count=8&layout=compact)](https://github.com/bhatt-j/github-readme-stats)
+
 ### Languages and tools
 
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -38,8 +39,7 @@ Interested in Data Science and Machine Learning.<br><br>
 <a href="#"><img alt="CV" src="https://img.shields.io/badge/-OpenCV-informational"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatt-j&langs_count=8&layout=compact)](https://github.com/bhatt-j/github-readme-stats)
-
+[![Janvi's github stats](https://github-readme-stats.vercel.app/api?username=bhatt-j)](https://github.com/bhatt-j/github-readme-stats)<!-- <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">--> 
 ### <b><p align="center" font="40">Contact Me  </p></b>
 <hr>
 I'm highly interested in contributing to open source projects.

@@ -42,7 +42,7 @@ Interested in Data Science and Machine Learning.<br><br>
 [![Janvi's github stats](https://github-readme-stats.vercel.app/api?username=bhatt-j)](https://github.com/bhatt-j/github-readme-stats)<!-- <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">--> 
 ### <p font="40"><b>Contact Me  </b> 
 <hr>
-<center><a href="mailto:jb.janvibhatt@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail"> <a href="www.linkedin.com/in/janvi-bhatt"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin"></a></center>
+<a href="mailto:jb.janvibhatt@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail"> <a href="www.linkedin.com/in/janvi-bhatt"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin"></a>
 
 I'm highly interested in contributing to open-source projects. </p>
 

@@ -24,7 +24,7 @@ Interested in Data Science and Machine Learning.<br><br>
 <!-- - 🌱 I’m currently learning Algorithms, Data Structure, competitive Programming  --> 
 - 🤔 Seek new concepts in Data Science, Machine Learning, NLP and Computer Vision.
 - 👯 Open to collaborate on projects.
-- Connect me through <b><a href='https://www.linkedin.com/in/janvi-bhatt/'>LinkedIn</a></b>
+
 <!-- - 😄 I like to work on <b>open source projects.</b>-->
 
 <img src = "https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" height="195" width="200" border-radius = "20"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhatt-j&langs_count=8&layout=compact)](https://github.com/bhatt-j/github-readme-stats)
@@ -40,9 +40,11 @@ Interested in Data Science and Machine Learning.<br><br>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
 [![Janvi's github stats](https://github-readme-stats.vercel.app/api?username=bhatt-j)](https://github.com/bhatt-j/github-readme-stats)<!-- <img src = "https://github-readme-stats.vercel.app/api?username=bhatt-j&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">--> 
-### <b><p align="center" font="40">Contact Me  </p></b>
+### <p font="40"><b>Contact Me  </b> 
 <hr>
-I'm highly interested in contributing to open source projects.
+<center><a href="mailto:jb.janvibhatt@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail"> <a href="www.linkedin.com/in/janvi-bhatt"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin"></a></center>
+
+I'm highly interested in contributing to open-source projects. </p>
 
 <!--<img src = "https://camo.githubusercontent.com/7018777cd031c1a5ba760566df83dd51d90790b2a5d9db7389f6b2ffab0d3b21/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d73756d626131303126">-->
 

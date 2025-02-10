@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatt-j&label=Profile%20views&color=e70413&style=flat" alt="bhatt-j" /> </p>
-I am Janvi Bhatt. A 22 year old studying at Dhirubhai Ambani Institute of Information and Communication Technology [DAIICT]. I am Pursuing Masters Degree in Information Technology.<br>
-Interested in Data Science and Machine Learning.<br><br>
+I’m Janvi Bhatt, a passionate AI/ML enthusiast with experience in Machine Learning, NLP, LLMs, Gen AI, and Computer Vision. <br> I hold a Master’s degree in Information Technology from Dhirubhai Ambani Institute of Information and Communication Technology (DAIICT). <br><br>
 
 <!-- - 🌱 I’m currently learning Algorithms, Data Structure, competitive Programming  --> 
-- 🤔 Seek new concepts in Data Science, Machine Learning, NLP and Computer Vision.
+- 🚀 Experienced in: Building recommendation systems, working with LLMs, and deploying ML models.
+- 🤔 Seek new concepts in Data Science, Machine Learning, NLP, and AI.
 - 👯 Open to collaborate on projects.
 
 <!-- - 😄 I like to work on <b>open source projects.</b>-->
